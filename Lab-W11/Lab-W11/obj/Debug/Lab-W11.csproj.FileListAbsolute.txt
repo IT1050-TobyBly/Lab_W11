@@ -1,0 +1,7 @@
+F:\Lab-W11\Lab-W11\obj\Debug\Lab-W11.csprojAssemblyReference.cache
+F:\Lab-W11\Lab-W11\obj\Debug\Lab-W11.csproj.CoreCompileInputs.cache
+F:\Lab-W11\Lab-W11\bin\Debug\Lab-W11.exe.config
+F:\Lab-W11\Lab-W11\bin\Debug\Lab-W11.exe
+F:\Lab-W11\Lab-W11\bin\Debug\Lab-W11.pdb
+F:\Lab-W11\Lab-W11\obj\Debug\Lab-W11.exe
+F:\Lab-W11\Lab-W11\obj\Debug\Lab-W11.pdb
